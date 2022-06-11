@@ -33,3 +33,13 @@ Algorithm Class 03 Assignment #5 OSS Project
 
 
 ## 3. MODEL 3
+
+### 1. Model
+![image](https://user-images.githubusercontent.com/38099263/173195860-511ce3ea-193f-4b1d-a861-ba80550ab881.png)
+### 2. Training with Training Loss
+
+### 3. Test Accuracy
+
+### 4. Images and corresponding probability that predicted right
+
+### 5. Images and corresponding probability that predicted wrong
