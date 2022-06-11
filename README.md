@@ -22,6 +22,7 @@ Algorithm Class 03 Assignment #5 OSS Project
 ![image](https://user-images.githubusercontent.com/38099263/173193965-90130737-0e03-49b0-aebd-cf6e328b966a.png)
 ## 2. Training with Training Loss
 ![image](https://user-images.githubusercontent.com/38099263/173194042-7997def7-edc9-49a8-87dc-043eb42479e8.png)
-
+## 3. Test Accuracy
+![image](https://user-images.githubusercontent.com/38099263/173194111-37e42696-df12-4c98-a71c-57685bf0bb71.png)
 
 # 3. MODEL 3
