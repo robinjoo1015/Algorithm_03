@@ -18,7 +18,8 @@ Algorithm Class 03 Assignment #5 OSS Project
 ![download](https://user-images.githubusercontent.com/38099263/173193706-72d8dd1f-7d64-4133-9e24-b1832c453f0a.png)
 
 # 2. MODEL 2
-
+## 1. Model
+![image](https://user-images.githubusercontent.com/38099263/173193965-90130737-0e03-49b0-aebd-cf6e328b966a.png)
 
 
 
