@@ -26,7 +26,8 @@ Algorithm Class 03 Assignment #5 OSS Project
 ![image](https://user-images.githubusercontent.com/38099263/173194111-37e42696-df12-4c98-a71c-57685bf0bb71.png)
 ## 4. Images and corresponding probability that predicted right
 ![download](https://user-images.githubusercontent.com/38099263/173194140-2884b9da-28bd-41fb-a441-7cc7b864e09c.png)
-
+## 5. Images and corresponding probability that predicted wrong
+![download](https://user-images.githubusercontent.com/38099263/173194173-21b0a845-dbf9-4061-beac-86274e227a31.png)
 
 
 # 3. MODEL 3
