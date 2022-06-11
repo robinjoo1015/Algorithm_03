@@ -20,7 +20,8 @@ Algorithm Class 03 Assignment #5 OSS Project
 # 2. MODEL 2
 ## 1. Model
 ![image](https://user-images.githubusercontent.com/38099263/173193965-90130737-0e03-49b0-aebd-cf6e328b966a.png)
-
+## 2. Training with Training Loss
+![image](https://user-images.githubusercontent.com/38099263/173194042-7997def7-edc9-49a8-87dc-043eb42479e8.png)
 
 
 # 3. MODEL 3
