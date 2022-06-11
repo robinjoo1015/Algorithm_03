@@ -4,8 +4,22 @@ Algorithm Class 03 Assignment #5 OSS Project
 20184757 Young Seok Joo
 
 
+# 1. MODEL 1
+
+## 1. Model
 ![image](https://user-images.githubusercontent.com/38099263/173193487-5893e53f-993e-46e0-a7b6-d363db87b07a.png)
+## 2. Training with Training Loss
 ![image](https://user-images.githubusercontent.com/38099263/173193536-b03cc1e1-a1ff-4f67-a02f-6ce1fd72e365.png)
+## 3. Test Accuracy
 ![image](https://user-images.githubusercontent.com/38099263/173193568-5ff744fe-8e30-4c79-aa20-00f7a4a0aeb4.png)
+## 4. Images and corresponding probability that predicted right
 ![download](https://user-images.githubusercontent.com/38099263/173193602-16bf6d14-be6c-4301-b80e-215beebd05d2.png)
+## 5. Images and corresponding probability that predicted wrong
 ![download](https://user-images.githubusercontent.com/38099263/173193706-72d8dd1f-7d64-4133-9e24-b1832c453f0a.png)
+
+# 2. MODEL 2
+
+
+
+
+# 3. MODEL 3
