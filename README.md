@@ -37,7 +37,7 @@ Algorithm Class 03 Assignment #5 OSS Project
 ### 1. Model
 ![image](https://user-images.githubusercontent.com/38099263/173195860-511ce3ea-193f-4b1d-a861-ba80550ab881.png)
 ### 2. Training with Training Loss
-
+![image](https://user-images.githubusercontent.com/38099263/173196234-b04d76ef-0328-4653-ad8a-56a2ae706a73.png)
 ### 3. Test Accuracy
 
 ### 4. Images and corresponding probability that predicted right
