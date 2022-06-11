@@ -43,3 +43,4 @@ Algorithm Class 03 Assignment #5 OSS Project
 ### 4. Images and corresponding probability that predicted right
 ![download](https://user-images.githubusercontent.com/38099263/173196279-5e8642eb-0070-49fe-ae5e-2673cf268cc2.png)
 ### 5. Images and corresponding probability that predicted wrong
+![download](https://user-images.githubusercontent.com/38099263/173196302-4d056586-04d4-4c86-ad38-5622477ca49d.png)
