@@ -39,7 +39,7 @@ Algorithm Class 03 Assignment #5 OSS Project
 ### 2. Training with Training Loss
 ![image](https://user-images.githubusercontent.com/38099263/173196234-b04d76ef-0328-4653-ad8a-56a2ae706a73.png)
 ### 3. Test Accuracy
-
+![image](https://user-images.githubusercontent.com/38099263/173196255-1986b906-96ea-4913-ba32-50311f57941b.png)
 ### 4. Images and corresponding probability that predicted right
 
 ### 5. Images and corresponding probability that predicted wrong
